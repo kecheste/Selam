@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487382272578",
+    "project_id": "selam-1cf1c",
+    "storage_bucket": "selam-1cf1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487382272578:android:e53341a527d4b21e793bdb",
+        "android_client_info": {
+          "package_name": "com.example.buyme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj7cGJ7DHLGip3fuQjctAK1vzTJbUo_9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
